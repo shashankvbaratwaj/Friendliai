@@ -207,4 +207,4 @@ q1_decorator/
 
 ## Author
 
-Shashank V Baratwaj & Claude
+Shashank V Baratwaj 
